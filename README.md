@@ -1,2 +1,2 @@
-# Unix Final
-Final for my introduction to Unix class
+# The Study Buddy
+---
